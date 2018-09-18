@@ -1,1 +1,1 @@
-# dailymoldiscord
+# daily mol discord bot
